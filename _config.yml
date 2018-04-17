@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title:  林林总总的林林总总
+      title:  林林总总
       author: Lindsey Zhang
   -
     scope:
@@ -29,7 +29,7 @@ author:
   #twitter: dbtek
   #pinterest: asd123
   linkedin: 林苹-张-770333113
-  bio: 一个爱旅游，爱户外，爱跑步的程序媛
+  bio: 一个爱旅游，爱户外，爱跑步的十八线程序媛
   email_md5: bced7bbee6a91657453230fff2253fe4
 
 rss_path: feed.xml

@@ -43,6 +43,10 @@ a.nav-link:hover { color: #777; }
 	margin-bottom: 10px;
 }
 
+p {
+    text-indent: 2em;
+}
+
 #contact-list li .fa,
 article .share .btn {
 	-o-transition:color .2s ease-out, background 1s ease-in;
@@ -123,7 +127,7 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #f2756a;
+	color: #f2756a; 
 }
 
 article.home h1 a,

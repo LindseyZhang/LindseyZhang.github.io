@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 胖子的碎碎念
+      title:  林林总总
       author: Lindsey Zhang
   -
     scope:
