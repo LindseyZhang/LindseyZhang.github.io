@@ -2,7 +2,7 @@
 layout: post
 title: 把 vim 武装成 IDE
 categories: [Basic]
-tags: [工具]
+tags: [Tools]
 description: vim 中好用的插件及其安装方式，自己动手把 vim 改造为一个轻量级的 IDE。
 ---
 ### [Vundle: vim 的插件管理器](https://github.com/VundleVim/Vundle.vim)
