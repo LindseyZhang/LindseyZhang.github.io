@@ -24,6 +24,6 @@ description: 一些有用的资料收集，方便查看
 
 [The Noun Project 图标库](https://thenounproject.com/)
 
-[免费的图表库](https://icons8.com/)
+[免费的图标库](https://icons8.com/)
 
 [阿里巴巴图标库](https://www.iconfont.cn/)

@@ -1,9 +1,11 @@
 ---
+
 layout: post
 title: 契约测试之Spring Cloud Contract 
 categories: [Tech]
-tags: [Micro Service][Spring]
+tags: [Micro Service , Spring]
 description: 随着微服务的流行，服务的数量不断增多，服务间约束如何来保证? 契约测试应运而生。
+
 ---
 
 随着微服务的兴起，越来越多的单体应用开始向微服务拆解。服务间通过轻量级的 Restful API 或 RPC 来进行服务间调用。此时，服务间彼此调用如何来测试？在引入契约测试之前，服务间调用有两种测试方法。
