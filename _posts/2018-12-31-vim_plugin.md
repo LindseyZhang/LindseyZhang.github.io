@@ -35,12 +35,12 @@ description: vim 中好用的插件及其安装方式，自己动手把 vim 改�
 
 进入 vim 后，可使用以下命令。
 
- :PluginList        - 查看使用 Vundle 管理的全部插件
- :PluginInstall    - 安装插件，如果末尾跟着 ! 表示更新插件
- :PluginUpdate  - 更新插件
- :PluginSearch foo - searches for foo; append `!` to refresh local cache
- :PluginClean      - 确认并移除无用的插件，如想自动确认所有移除，在末尾添加 !
-:h vundle     - 查看更多详细信息
+ :PluginList        - 查看使用 Vundle 管理的全部插件  
+ :PluginInstall    - 安装插件，如果末尾跟着 ! 表示更新插件  
+ :PluginUpdate  - 更新插件  
+ :PluginSearch foo - searches for foo; append `!` to refresh local cache  
+ :PluginClean      - 确认并移除无用的插件，如想自动确认所有移除，在末尾添加 !  
+:h vundle     - 查看更多详细信息  
 
 ### [NERDTree: 文件系统的树状浏览器，类似与 IDE 的 Project Explore。](https://vim8.org/scripts/script.php?script_id=1658)
 
