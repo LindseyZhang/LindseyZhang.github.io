@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Spring Security 那些事
-categories: [Spring]
-tags: [framework]
+categories: [Tech]
+tags: [Spring]
 description: 来看看 Spring Security 的认证和授权都是怎么玩的。
 ---
 

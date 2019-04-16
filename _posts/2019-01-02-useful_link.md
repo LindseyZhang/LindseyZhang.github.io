@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 好用的参考资料汇总
-categories: [基础]
-tags: [资料]
+categories: [Basic]
+tags: [Reference]
 description: 一些有用的资料收集，方便查看
 ---
 

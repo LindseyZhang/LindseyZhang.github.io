@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 快捷键系列 -- vim基本功
-categories: []
-tags: [shortcut]
+categories: [Basic]
+tags: [Shortcut]
 description: 软件开发神器vim你会用吗？快来试试丢掉鼠标的编程。
 ---
 多的背景我就不介绍了。你要是不知道vim是什么也不会来看这篇文章。不得不说，vim真是我用过的最好用的文本工具，没有之一。绝对是提升效率，装逼的利器。

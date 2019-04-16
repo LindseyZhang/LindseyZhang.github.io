@@ -2,7 +2,7 @@
 layout: post
 title: 契约测试之Spring Cloud Contract 
 categories: [Tech]
-tags: [Micro Service]
+tags: [Micro Service][Spring]
 description: 随着微服务的流行，服务的数量不断增多，服务间约束如何来保证? 契约测试应运而生。
 ---
 
