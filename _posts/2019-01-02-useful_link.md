@@ -27,3 +27,6 @@ description: 一些有用的资料收集，方便查看
 [免费的图标库](https://icons8.com/)
 
 [阿里巴巴图标库](https://www.iconfont.cn/)
+
+[Remic Icon](<https://remixicon.com/>)
+
