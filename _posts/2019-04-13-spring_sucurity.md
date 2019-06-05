@@ -271,7 +271,7 @@ AuthenticationProvider： 处理具体 Authentication 认证对象的抽象类�
 
 ### Spring Security 认证流程
 
-![security authentication](/assets/image/spring-security/authentication.png)
+![security authentication](http://psm10o1nd.bkt.clouddn.com/spring-security/authentication.png)
 
 用户想要登陆时，首先需要输入用户名和密码。这些信息被封装为一个 Authentication 对象, 通常是一个UsernamePasswordAuthenticationToken。 这个 Authentication 对象会被提交给负责认证的 AuthenticationManager。AuthenticationManager 有一个 authenticate 方法，方法签名如下：
 
@@ -326,7 +326,7 @@ Spring Security Test 提供了三种注入用户的方法。
    public void testUser() {
        // …
    }
-    ```
+   ```
 
    使用该注释，只需要给用户名就行。用户必须存在在数据库中, 需要与 @SpringBootTest 注解配套使用，因为该方法需要注入 UserDetailService, 实际调用 UserDetailService 来获得用户。
 
