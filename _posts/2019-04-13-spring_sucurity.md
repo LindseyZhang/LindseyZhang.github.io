@@ -271,7 +271,7 @@ AuthenticationProvider： 处理具体 Authentication 认证对象的抽象类�
 
 ### Spring Security 认证流程
 
-![security authentication](http://psm10o1nd.bkt.clouddn.com/spring-security/authentication.png)
+![security authentication](https://git-page.oss-cn-chengdu.aliyuncs.com/spring-security/authentication.png)
 
 用户想要登陆时，首先需要输入用户名和密码。这些信息被封装为一个 Authentication 对象, 通常是一个UsernamePasswordAuthenticationToken。 这个 Authentication 对象会被提交给负责认证的 AuthenticationManager。AuthenticationManager 有一个 authenticate 方法，方法签名如下：
 

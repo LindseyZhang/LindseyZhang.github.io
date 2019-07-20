@@ -46,7 +46,7 @@ description: vim 中好用的插件及其安装方式，自己动手把 vim 改�
 
 安装后效果如下：
 
-![](http://psm10o1nd.bkt.clouddn.com/vim-plugin/nerd_tree_screenshot.png)
+![](https://git-page.oss-cn-chengdu.aliyuncs.com/vim-plugin/nerd_tree_screenshot.png)
 
 安装了 Vundle 后，插件安装就很方便了。
 
@@ -84,7 +84,7 @@ map <F2> :NERDTreeToggle<CR>
 
 安装后效果如下：
 
-![](http://psm10o1nd.bkt.clouddn.com/vim-plugin/tagbar_screenshot.png)
+![](https://git-page.oss-cn-chengdu.aliyuncs.com/vim-plugin/tagbar_screenshot.png)
 
 图中右侧即为 tagbar 显示结果。其会对 class 对象进行归类显示，如图中是先显示类属性块，再显示类方法块。属性和方法签名前面的 +, - , #  分别表示 public, private  和 protected。
 
