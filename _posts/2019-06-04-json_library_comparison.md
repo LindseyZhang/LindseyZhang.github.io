@@ -167,7 +167,7 @@ fastJson: 在序列化时添加 SerializerFeature， 目前一共提供 30 种 F
 JSON.toJSONString(dateCollection, SerializerFeature.WriteMapNullValue)
 ```
 
-以上测试的完整代码请参见[github](https://github.com/LindseyZhang/json-lib-compare)
+以上测试的完整代码请参见[github](https://github.com/LindseyZhang/json-lib-compare/tree/master/src/test/java/com/zlp)
 
 #### ObjectMapper 和 Gson 能否做成全局的
 
