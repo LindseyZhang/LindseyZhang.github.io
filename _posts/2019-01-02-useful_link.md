@@ -28,5 +28,6 @@ description: 一些有用的资料收集，方便查看
 
 [阿里巴巴图标库](https://www.iconfont.cn/)
 
-[Remic Icon](<https://remixicon.com/>)
+[Remic Icon](https://remixicon.com/)
+[Google Icon](https://fonts.google.com/icons?icon.query=file)
 
